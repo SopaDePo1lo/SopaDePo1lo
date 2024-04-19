@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![codewars_stats](https://www.codewars.com/users/SopaDePollo/badges/large)
-<br/>
+<br>
 ![Sopa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SopaDePo1lo&show_icons=true&theme=gruvbox)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SopaDePo1lo&layout=compact&theme=gruvbox)
